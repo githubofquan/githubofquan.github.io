@@ -1,1 +1,0 @@
-# githubofquan.github.io
