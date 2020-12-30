@@ -1,0 +1,25 @@
+/*
+Theme Name: Visana 3.0.1
+Text Domain: vnbgroup
+Version: 3.0.3
+Description: Visana 3.0 is a premium theme designed for independent agents and agencies. It is used to manage (visa outbound) products throughout the territory of Vietnam.
+Author: The VNB-DEV team
+Author URI: https://vnbfamily.com/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Contributors: Hien Nguyen Duy (Technical Lead), Huy Truong Van (Front-end Developer), Bien Duong Viet (Front-end Developer)
+*/
+
+.table-100 {
+    width: 100%
+}
+
+.table-100 table {
+    width: 100%
+}
+
+.ajax-loader.is-active,
+.wpcf7-response-output {
+    display: none !important;
+}

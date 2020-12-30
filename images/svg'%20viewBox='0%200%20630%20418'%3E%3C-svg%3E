@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js no-svg">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#00A4DA">
+    <meta name="msapplication-navbutton-color" content="#00A4DA">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="viewport" content="width=device-width, maximum-scale=5, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="dns-prefetch" href="https://visana.vn/">
+    <link rel="preload" href="https://visana.vn/wp-content/themes/visana_v3.0/assets/fonts/be-vn/beVietnam100-SemiBold/beVietnam100-SemiBold.otf" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="https://visana.vn/wp-content/themes/visana_v3.0/assets/fonts/be-vn/beVietnam100-Bold/beVietnam100-Bold.otf" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="https://visana.vn/wp-content/themes/visana_v3.0/assets/fonts/icomoon.ttf?7s5kl4" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="https://visana.vn/wp-content/themes/visana_v3.0/assets/fonts/be-vn/beVietnam100-Regular/beVietnam100-Regular.otf" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="https://code.jquery.com/jquery-3.4.1.min.js?v=3.4.1" as="script">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js?v=3.4.1" type="1b94ce271e547e8f734cad4b-text/javascript"></script>
+    <style>
+    .grecaptcha-badge {
+        opacity: 0 !important;
+        pointer-events: none !important;
+    }
+    </style>
+    
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Không tìm thấy trang - VISANA</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Không tìm thấy trang - VISANA" />
+	<meta property="og:site_name" content="VISANA" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://visana.vn/#organization","name":"VISANA","url":"https://visana.vn/","sameAs":["https://www.facebook.com/visana.vn/"],"logo":{"@type":"ImageObject","@id":"https://visana.vn/#logo","inLanguage":"en-US","url":"https://visana.vn/wp-content/uploads/2017/03/logo.png","width":1000,"height":425,"caption":"VISANA"},"image":{"@id":"https://visana.vn/#logo"}},{"@type":"WebSite","@id":"https://visana.vn/#website","url":"https://visana.vn/","name":"VISANA","description":"C\u1ed5ng th\u00f4ng tin th\u1ee7 t\u1ee5c xin Visa du l\u1ecbch, th\u0103m th\u00e2n, c\u00f4ng t\u00e1c","publisher":{"@id":"https://visana.vn/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://visana.vn/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="VISANA &raquo; Feed" href="https://visana.vn/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://visana.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-ead-public-css'  href='https://visana.vn/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://visana.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-icomoon-css'  href='https://visana.vn/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=2.0.11' type='text/css' media='all' />
+<link rel='stylesheet' id='ez-toc-css'  href='https://visana.vn/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.11' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container p.ez-toc-title {font-size: 150%;}div#ez-toc-container p.ez-toc-title {font-weight: 400;}div#ez-toc-container ul li {font-size: 100%;}div#ez-toc-container {background: #fff;border: 1px solid #118cc2;}div#ez-toc-container p.ez-toc-title {color: #333;}div#ez-toc-container ul.ez-toc-list a {color: #118cc2;}div#ez-toc-container ul.ez-toc-list a:hover {color: #118cc2;}div#ez-toc-container ul.ez-toc-list a:visited {color: #118cc2;}
+</style>
+<link rel='stylesheet' id='default-css'  href='https://visana.vn/wp-content/themes/visana_v3.0/style.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css?ver=4.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='https://visana.vn/wp-content/themes/visana_v3.0/assets/sass/base.css?ver=3.0.3' type='text/css' media='all' />
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js?ver=1.16.0' id='popper.min-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js?ver=4.4.1' id='bootstrap.min-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" id='main-js-extra'>
+/* <![CDATA[ */
+var wp_vars = {"ADMIN_AJAX_URL":"https:\/\/visana.vn\/wp-admin\/admin-ajax.php","HOME_URI":"https:\/\/visana.vn\/"};
+/* ]]> */
+</script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-content/themes/visana_v3.0/assets/js/page/dist/bundle.js?ver=3.0.3' id='main-js'></script>
+<link rel="https://api.w.org/" href="https://visana.vn/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://visana.vn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://visana.vn/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<meta name="framework" content="Redux 4.1.24" />
+<style type="text/css" media="all">
+
+</style>
+<!-- Google Tag Manager -->
+<script type="1b94ce271e547e8f734cad4b-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-54M6RWT');</script>
+<!-- End Google Tag Manager --><meta name='csrf-token' content='17ec77c0c8'><style type="text/css" id="tve_global_variables">:root{}</style><style type="text/css" id="thrive-default-styles"></style><link rel="icon" href="https://visana.vn/wp-content/uploads/2017/03/cropped-VISANA-WINNER-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://visana.vn/wp-content/uploads/2017/03/cropped-VISANA-WINNER-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://visana.vn/wp-content/uploads/2017/03/cropped-VISANA-WINNER-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://visana.vn/wp-content/uploads/2017/03/cropped-VISANA-WINNER-1-270x270.png" />
+<link rel="preload" href="/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" as="script"><link rel="preload" href="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" as="script"><link rel="preload" href="/wp-content/themes/visana_v3.0/assets/js/page/dist/bundle.js?ver=3.0.3" as="script"><link rel="preload" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.6" as="style"><link rel="preload" href="/wp-content/plugins/embed-any-document/css/embed-public.min.css?ver=2.6.1" as="style"><link rel="preload" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2" as="style"><link rel="preload" href="/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.min.css?ver=2.0.11" as="style"><link rel="preload" href="/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.11" as="style"><link rel="preload" href="/wp-content/themes/visana_v3.0/style.css?ver=3.0.3" as="style"><link rel="preload" href="/wp-content/themes/visana_v3.0/assets/sass/base.css?ver=3.0.3" as="style"><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>    <script type="1b94ce271e547e8f734cad4b-text/javascript">
+    jQuery(document).ready(function($) {
+        var nonce = $('meta[name="csrf-token"]').attr('content');
+        $.ajaxSetup({headers: {'X-CSRF-TOKEN': nonce}});
+    });
+    </script>
+</head>
+
+<body class="error404">
+        <div class="small-header">
+        <div class="container">
+            <div class="wrap-small-header">
+                <div class="header-phone">
+                    <div class="phone"><span>Hotline : </span><a href="tel:1900 0284">1900 0284</a></div>
+                    <div class="phone"><span>Mobile : </span><a href="tel:090 2200 454">090 2200 454</a></div>
+                </div>
+                <div class="header-link">
+                    <a href="https://visana.vn/gioi-thieu/">Về Visana</a>
+                    <a href="https://visana.vn/cam-nhan-cua-khach-hang/">Cảm nhận khách hàng</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="nav-menu menu-desktop">
+        <div class="container nav-menu-bl">
+            <div class="row">
+                <div class="col-lg-2 col-xs-6 col-left col-md-2">
+                    <a href="/">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 407.31 173.05" style="width: 102px;"><defs><style>.cls-1{fill:#008cc1;}.cls-2{fill:#414042;}.cls-3{fill:#fff;}</style></defs><title>visana-logo</title><path class="cls-1" d="M335.63,59v.84H253.14V59a11.69,11.69,0,0,1,11.68-11.7h59.12A11.69,11.69,0,0,1,335.63,59Z"/><path class="cls-1" d="M319.44,86.19V130.5a5.43,5.43,0,0,1-1.16,3.72,3.78,3.78,0,0,1-3,1.33,5.39,5.39,0,0,1-3.86-1.79l-34-34.2V135h-8V91.05a5.47,5.47,0,0,1,1.16-3.7A3.93,3.93,0,0,1,273.67,86a4.18,4.18,0,0,1,1.79.41,6,6,0,0,1,1.79,1.33l34.14,33.86V86.19Z"/><polygon class="cls-2" points="271.61 25.16 271.61 47.32 267.05 47.32 267.05 25.21 271.61 25.16"/><rect class="cls-2" x="317.04" y="25.21" width="4.54" height="22.1"/><path class="cls-1" d="M253.14,69.65V140.2a11.69,11.69,0,0,0,11.68,11.7h59.12a11.69,11.69,0,0,0,11.7-11.7V69.65Zm66.29,60.85a5.43,5.43,0,0,1-1.16,3.72,3.78,3.78,0,0,1-3,1.33,5.39,5.39,0,0,1-3.86-1.79l-34-34.2V135h-8V91.05a5.47,5.47,0,0,1,1.16-3.7A3.93,3.93,0,0,1,273.67,86a4.18,4.18,0,0,1,1.79.41,6,6,0,0,1,1.79,1.33l34.14,33.86V86.19h8Z"/><rect class="cls-2" x="253.14" y="59.85" width="82.5" height="9.8"/><path class="cls-1" d="M407.31,135.63H397L375,98.37l-21.89,37.26h-9.71l27.88-46.31a6.4,6.4,0,0,1,1.73-2,3.83,3.83,0,0,1,2.33-.73,3.94,3.94,0,0,1,2.4.73,6.4,6.4,0,0,1,1.73,2Z"/><path class="cls-1" d="M0,86.59H10.31l22,37.26L54.16,86.59h9.71L36,132.9a6.44,6.44,0,0,1-1.73,2,3.85,3.85,0,0,1-2.33.73,4,4,0,0,1-2.4-.73,6.42,6.42,0,0,1-1.73-2Z"/><path class="cls-1" d="M242.86,135.63H232.55l-22-37.26L188.7,135.63H179l27.88-46.31a6.42,6.42,0,0,1,1.73-2,3.83,3.83,0,0,1,2.33-.73,3.94,3.94,0,0,1,2.4.73,6.42,6.42,0,0,1,1.73,2Z"/><path class="cls-1" d="M82.84,135V86.59h8.45V135Z"/><path class="cls-1" d="M113.45,135v-8.45h36.26a7.3,7.3,0,0,0,5.22-1.73,6,6,0,0,0,1.83-4.59,5.83,5.83,0,0,0-1.83-4.69,7.82,7.82,0,0,0-5.22-1.56H127.49a17.43,17.43,0,0,1-6.15-1,13.3,13.3,0,0,1-4.66-2.86,12.56,12.56,0,0,1-2.93-4.36,14.49,14.49,0,0,1-1-5.52,14.9,14.9,0,0,1,1-5.42,11.56,11.56,0,0,1,2.86-4.29,13.57,13.57,0,0,1,4.69-2.83,18.4,18.4,0,0,1,6.39-1h34.73V95H127.62a6.2,6.2,0,0,0-4.52,1.56,5.82,5.82,0,0,0-1.6,4.36,5.64,5.64,0,0,0,1.63,4.32,6.2,6.2,0,0,0,4.42,1.53h22.16q7.38,0,11.21,3.46t3.83,10.51a16.63,16.63,0,0,1-.93,5.66,12.21,12.21,0,0,1-2.79,4.49,12.74,12.74,0,0,1-4.69,3,18.79,18.79,0,0,1-6.62,1.06Z"/><path class="cls-3" d="M311.39,86.19v35.39L277.25,87.73a6,6,0,0,0-1.79-1.33,4.18,4.18,0,0,0-1.79-.41,3.93,3.93,0,0,0-3.16,1.37,5.47,5.47,0,0,0-1.16,3.7V135h8V99.56l34,34.2a5.39,5.39,0,0,0,3.86,1.79,3.78,3.78,0,0,0,3-1.33,5.43,5.43,0,0,0,1.16-3.72V86.19Z"/><path class="cls-1" d="M322.75,25.21h-6.69s0-10.48-1.34-13.62a5.61,5.61,0,0,0-2.15-1.7c-8.12-4.21-28.92-3.89-37.11,0a3.54,3.54,0,0,0-1.28,1.46C273,14.6,272.9,25.17,272.9,25.17h-1.16l-4.56,0h-1s-1.68-13.72,0-17.85a4.63,4.63,0,0,1,1-1.41,13.9,13.9,0,0,1,3.56-2.52c.32-.14.65-.28,1-.41,11-4.21,34.46-3.89,45.44.13.26.09.51.18.75.28a12,12,0,0,1,3.79,3,6,6,0,0,1,1,1.64C324.19,12.12,322.75,25.21,322.75,25.21Z"/><circle class="cls-2" cx="275" cy="162.45" r="5.6"/><circle class="cls-2" cx="313.78" cy="162.45" r="5.6"/><path class="cls-2" d="M16.88,168,11.6,151.86h2.26l2.52,8c.7,2.18,1.3,4.15,1.73,6h0c.46-1.87,1.13-3.91,1.85-6l2.74-8H25L19.18,168Z"/><path class="cls-2" d="M31,153.15a1.31,1.31,0,0,1-2.62,0,1.29,1.29,0,0,1,1.32-1.32A1.25,1.25,0,0,1,31,153.15ZM28.66,168V156.42h2.11V168Z"/><path class="cls-2" d="M36.39,165.87a5.53,5.53,0,0,0,2.78.84c1.54,0,2.26-.77,2.26-1.73s-.6-1.56-2.16-2.14c-2.09-.74-3.07-1.9-3.07-3.29,0-1.87,1.51-3.41,4-3.41a5.81,5.81,0,0,1,2.86.72l-.53,1.54a4.51,4.51,0,0,0-2.38-.67c-1.25,0-1.94.72-1.94,1.58s.7,1.39,2.21,2c2,.77,3,1.78,3,3.51,0,2-1.58,3.48-4.34,3.48a6.62,6.62,0,0,1-3.26-.79Z"/><path class="cls-2" d="M55,168l-.17-1.46h-.07a4.33,4.33,0,0,1-3.55,1.73A3.31,3.31,0,0,1,47.67,165c0-2.81,2.5-4.35,7-4.32v-.24A2.4,2.4,0,0,0,52,157.71a5.78,5.78,0,0,0-3,.87l-.48-1.39a7.2,7.2,0,0,1,3.82-1c3.55,0,4.42,2.42,4.42,4.75v4.34a16.32,16.32,0,0,0,.19,2.79Zm-.31-5.93c-2.3,0-4.92.36-4.92,2.62a1.87,1.87,0,0,0,2,2,2.89,2.89,0,0,0,2.81-1.94,2.21,2.21,0,0,0,.12-.67Z"/><path class="cls-2" d="M78.32,167.6a7.76,7.76,0,0,1-3.34.67c-3.5,0-5.78-2.38-5.78-5.93a5.9,5.9,0,0,1,6.24-6.17,7.08,7.08,0,0,1,2.93.6l-.48,1.63a4.88,4.88,0,0,0-2.45-.55c-2.66,0-4.1,2-4.1,4.39,0,2.69,1.73,4.34,4,4.34A6,6,0,0,0,78,166Z"/><path class="cls-2" d="M83.19,151H85.3v7.25h0a3.91,3.91,0,0,1,1.51-1.49,4.33,4.33,0,0,1,2.16-.6c1.56,0,4.06,1,4.06,5V168H91v-6.67c0-1.87-.7-3.45-2.69-3.45A3,3,0,0,0,85.45,160a2.56,2.56,0,0,0-.14,1v7H83.19Z"/><path class="cls-2" d="M109.42,162.13c0,4.29-3,6.17-5.78,6.17-3.14,0-5.57-2.3-5.57-6,0-3.89,2.54-6.17,5.76-6.17S109.42,158.58,109.42,162.13Zm-9.22.12c0,2.54,1.46,4.46,3.53,4.46s3.53-1.9,3.53-4.51c0-2-1-4.46-3.48-4.46S100.21,160,100.21,162.25Z"/><path class="cls-2" d="M122,159.56c0-1.2,0-2.19-.1-3.14h1.87l.12,1.92h0a4.27,4.27,0,0,1,3.84-2.18c1.61,0,4.1,1,4.1,4.94V168h-2.11v-6.7c0-1.87-.7-3.43-2.69-3.43a3,3,0,0,0-2.83,2.16,3,3,0,0,0-.14,1v7H122Z"/><path class="cls-2" d="M147.7,156.42c0,.84-.1,1.78-.1,3.19v6.74c0,2.66-.53,4.3-1.66,5.3a6.15,6.15,0,0,1-4.22,1.39,7.49,7.49,0,0,1-3.86-1l.53-1.61a6.55,6.55,0,0,0,3.41.91c2.16,0,3.74-1.13,3.74-4.06V166h0a4.14,4.14,0,0,1-3.7,1.94c-2.88,0-4.94-2.45-4.94-5.66,0-3.94,2.57-6.17,5.23-6.17a3.86,3.86,0,0,1,3.62,2h0l.1-1.75ZM145.52,161a3.09,3.09,0,0,0-3.07-3.19c-2,0-3.46,1.71-3.46,4.39,0,2.28,1.15,4.18,3.43,4.18a3.09,3.09,0,0,0,2.93-2.16,3.71,3.71,0,0,0,.17-1.13Z"/><path class="cls-2" d="M165.1,153.83a3.61,3.61,0,0,1,.43,1.73,2,2,0,0,1-2,2l-.26,0v7.27c0,1.2,0,2.26.1,3.17h-1.87l-.12-1.9h0a4.37,4.37,0,0,1-3.84,2.16c-1.82,0-4-1-4-5.09v-6.79h2.11v6.43c0,2.21.67,3.7,2.59,3.7a3.05,3.05,0,0,0,2.78-1.92,3.09,3.09,0,0,0,.19-1.08v-7.13h1.66c.84,0,1.13-.34,1.13-.94a3,3,0,0,0-.41-1.39Z"/><path class="cls-2" d="M180.27,154.45a4,4,0,0,1,.41,1.75,1.93,1.93,0,0,1-2.23,2.09,6.07,6.07,0,0,1,1.2,3.84c0,4.29-3,6.17-5.78,6.17-3.14,0-5.57-2.3-5.57-6,0-3.89,2.54-6.17,5.76-6.17a6.07,6.07,0,0,1,2,.34,7.26,7.26,0,0,0,2,.62.86.86,0,0,0,1-1,3,3,0,0,0-.38-1.42Zm-9.84,7.8c0,2.54,1.46,4.46,3.53,4.46s3.53-1.9,3.53-4.51c0-2-1-4.46-3.48-4.46S170.43,160,170.43,162.25Zm2.78-10.85,2.11,3.43h-1.49l-2.93-3.43Z"/><path class="cls-2" d="M187.16,153.15a1.31,1.31,0,0,1-2.62,0,1.29,1.29,0,0,1,1.32-1.32A1.25,1.25,0,0,1,187.16,153.15ZM184.81,168V156.42h2.11V168Z"/><path class="cls-2" d="M203.07,168l-5.28-16.18H200l2.52,8c.7,2.18,1.3,4.15,1.73,6h0c.46-1.87,1.13-3.91,1.85-6l2.74-8h2.23L205.37,168Z"/><path class="cls-2" d="M217.21,153.15a1.31,1.31,0,0,1-2.62,0,1.29,1.29,0,0,1,1.32-1.32A1.25,1.25,0,0,1,217.21,153.15ZM214.85,168V156.42H217V168Z"/><path class="cls-2" d="M224,162.61a3.72,3.72,0,0,0,4,4,7.64,7.64,0,0,0,3.22-.6l.36,1.51a9.42,9.42,0,0,1-3.87.72c-3.58,0-5.71-2.35-5.71-5.86s2.06-6.26,5.45-6.26c3.79,0,4.8,3.34,4.8,5.47a8,8,0,0,1-.07,1Zm6.19-1.51c0-1.34-.55-3.43-2.93-3.43-2.14,0-3.07,2-3.24,3.43Zm-2.4-9.7,2.3,3.43h-1.63l-1.39-2.28h0l-1.39,2.28h-1.56l2.26-3.43Zm.48,19.78a1.21,1.21,0,0,1-1.22,1.25,1.24,1.24,0,0,1,0-2.47A1.2,1.2,0,0,1,228.32,171.18Z"/><path class="cls-2" d="M239.84,153.08v3.34h3V158h-3v6.27c0,1.44.41,2.26,1.58,2.26a4.68,4.68,0,0,0,1.22-.14l.1,1.58a5.17,5.17,0,0,1-1.87.29,2.93,2.93,0,0,1-2.28-.89,4.31,4.31,0,0,1-.82-3V158H236v-1.61h1.8v-2.79Z"/></svg>
+                    </a>
+                </div>
+                <div class="col-lg-10 col-xs-6 col-right col-md-10">
+                    <div class="row">
+                        <div class="col-lg-8 col-xs-6 nav-mn-item col-md-10">
+                            <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-13509" class="li_vt_1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13509"><a>Dịch vụ Visa</a>
+<ul class="sub-menu">
+	<li id="menu-item-13510" class="cl-menu mn_chau_a menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13510"><a>Visa châu Á</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13511"><a href="https://visana.vn/dich-vu/visa-an-do/">Visa Ấn Độ</a></li>
+		<li id="menu-item-13512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13512"><a href="https://visana.vn/dich-vu/visa-bangladesh/">Visa Bangladesh</a></li>
+		<li id="menu-item-13513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13513"><a href="https://visana.vn/dich-vu/visa-dai-loan/">Visa Đài Loan</a></li>
+		<li id="menu-item-13514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13514"><a href="https://visana.vn/dich-vu/visa-han-quoc/">Visa Hàn Quốc</a></li>
+		<li id="menu-item-13515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13515"><a href="https://visana.vn/dich-vu/visa-hongkong/">Visa Hong Kong</a></li>
+		<li id="menu-item-13516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13516"><a href="https://visana.vn/dich-vu/visa-israel/">Visa Israel</a></li>
+		<li id="menu-item-13517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13517"><a href="https://visana.vn/dich-vu/visa-nga/">Visa Nga</a></li>
+		<li id="menu-item-13518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13518"><a href="https://visana.vn/dich-vu/visa-nhat-ban/">Visa Nhật Bản</a></li>
+		<li id="menu-item-13519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13519"><a href="https://visana.vn/dich-vu/visa-pakistan/">Visa Pakistan</a></li>
+		<li id="menu-item-13520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13520"><a href="https://visana.vn/dich-vu/visa-trung-quoc/">Visa Trung Quốc</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13521" class="cl-menu mn_chau_au menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13521"><a>Visa Châu Âu</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13522"><a href="https://visana.vn/dich-vu/visa-anh/">Visa Anh</a>
+		<ul class="sub-menu">
+			<li id="menu-item-13523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13523"><a href="https://visana.vn/dich-vu/visa-ao/">Visa Áo</a></li>
+			<li id="menu-item-13524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13524"><a href="https://visana.vn/dich-vu/visa-bi/">Visa Bỉ</a></li>
+			<li id="menu-item-13525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13525"><a href="https://visana.vn/dich-vu/visa-bulgaria/">Visa Bulgaria</a></li>
+			<li id="menu-item-13526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13526"><a href="https://visana.vn/dich-vu/visa-bo-dao-nha/">Visa Bồ Đào Nha</a></li>
+			<li id="menu-item-13527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13527"><a href="https://visana.vn/dich-vu/visa-dan-mach/">Visa Đan Mạch</a></li>
+			<li id="menu-item-13528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13528"><a href="https://visana.vn/dich-vu/visa-duc/">Visa Đức</a></li>
+			<li id="menu-item-13529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13529"><a href="https://visana.vn/dich-vu/visa-ha-lan/">Visa Hà Lan</a></li>
+			<li id="menu-item-13530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13530"><a href="https://visana.vn/dich-vu/visa-hy-lap/">Visa Hy Lạp</a></li>
+			<li id="menu-item-13531" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13531"><a href="https://visana.vn/dich-vu/visa-hungary/">Visa Hungary</a></li>
+			<li id="menu-item-13532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13532"><a href="https://visana.vn/dich-vu/visa-iceland/">Visa Iceland</a></li>
+			<li id="menu-item-13533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13533"><a href="https://visana.vn/dich-vu/visa-liechtenstein/">Visa Liechtenstein</a></li>
+			<li id="menu-item-13534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13534"><a href="https://visana.vn/dich-vu/visa-lithuania/">Visa Lithuania</a></li>
+		</ul>
+</li>
+		<li id="menu-item-13535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13535"><a href="https://visana.vn/dich-vu/visa-na-uy/">Visa Na Uy</a>
+		<ul class="sub-menu">
+			<li id="menu-item-13536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13536"><a href="https://visana.vn/dich-vu/visa-phap/">Visa Pháp</a></li>
+			<li id="menu-item-13537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13537"><a href="https://visana.vn/dich-vu/visa-phan-lan/">Visa Phần Lan</a></li>
+			<li id="menu-item-13538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13538"><a href="https://visana.vn/dich-vu/visa-sec/">Visa Séc</a></li>
+			<li id="menu-item-13539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13539"><a href="https://visana.vn/dich-vu/visa-sip/">Visa Síp</a></li>
+			<li id="menu-item-13540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13540"><a href="https://visana.vn/dich-vu/visa-slovakia/">Visa Slovakia</a></li>
+			<li id="menu-item-13541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13541"><a href="https://visana.vn/dich-vu/visa-slovenia/">Visa Slovenia</a></li>
+			<li id="menu-item-13542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13542"><a href="https://visana.vn/dich-vu/visa-tay-ban-nha/">Visa Tây Ban Nha</a></li>
+			<li id="menu-item-13543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13543"><a href="https://visana.vn/dich-vu/visa-tho-nhi-ky/">Visa Thổ Nhĩ Kỳ</a></li>
+			<li id="menu-item-13544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13544"><a href="https://visana.vn/dich-vu/visa-thuy-dien/">Visa Thuỵ Điển</a></li>
+			<li id="menu-item-13545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13545"><a href="https://visana.vn/dich-vu/visa-thuy-si/">Visa Thuỵ Sĩ</a></li>
+			<li id="menu-item-13546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13546"><a href="https://visana.vn/dich-vu/visa-ukraina/">Visa Ukraina</a></li>
+			<li id="menu-item-13547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13547"><a href="https://visana.vn/dich-vu/visa-y/">Visa Ý</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-13548" class="cl-menu mn_chau_my menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13548"><a>Visa Châu Mỹ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13549"><a href="https://visana.vn/dich-vu/visa-brazil/">Visa Brazil</a></li>
+		<li id="menu-item-13550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13550"><a href="https://visana.vn/dich-vu/visa-canada/">Visa Canada</a></li>
+		<li id="menu-item-13551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13551"><a href="https://visana.vn/dich-vu/visa-cuba/">Visa Cuba</a></li>
+		<li id="menu-item-13552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13552"><a href="https://visana.vn/dich-vu/visa-mexico/">Visa Mexico</a></li>
+		<li id="menu-item-13553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13553"><a href="https://visana.vn/dich-vu/visa-my/">Visa Mỹ</a></li>
+		<li id="menu-item-13554" class="cl-menu mn_chau_uc menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13554"><a href="#">Visa Châu Úc</a>
+		<ul class="sub-menu">
+			<li id="menu-item-13555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13555"><a href="https://visana.vn/dich-vu/visa-new-caledonia/">Visa New Caledonia</a></li>
+			<li id="menu-item-13556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13556"><a href="https://visana.vn/dich-vu/visa-new-zealand/">Visa New Zealand</a></li>
+			<li id="menu-item-13557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13557"><a href="https://visana.vn/dich-vu/visa-uc/">Visa Úc</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-13558" class="cl-menu mn_chau_phi menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13558"><a>Visa Châu phi</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13559"><a href="https://visana.vn/dich-vu/visa-ai-cap/">Visa Ai Cập</a></li>
+		<li id="menu-item-13560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13560"><a href="https://visana.vn/dich-vu/visa-algeria/">Visa Algeria</a></li>
+		<li id="menu-item-13561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13561"><a href="https://visana.vn/dich-vu/visa-angola/">Visa Angola</a></li>
+		<li id="menu-item-13562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13562"><a href="https://visana.vn/dich-vu/visa-kenya/">Visa Kenya</a></li>
+		<li id="menu-item-13563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13563"><a href="https://visana.vn/kinh-nghiem-xin-visa-liberia/">Visa Liberia</a></li>
+		<li id="menu-item-13564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13564"><a href="https://visana.vn/dich-vu/visa-maroc/">Visa Maroc</a></li>
+		<li id="menu-item-13565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13565"><a href="https://visana.vn/dich-vu/visa-nam-phi/">Visa Nam Phi</a></li>
+		<li id="menu-item-13566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13566"><a href="https://visana.vn/dich-vu/visa-nigeria/">Visa Nigeria</a></li>
+		<li id="menu-item-13567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13567"><a href="https://visana.vn/dich-vu/visa-tanzania/">Visa Tanzania</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-13577" class="li_vt_2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13577"><a>Dịch vụ khác</a>
+<ul class="sub-menu">
+	<li id="menu-item-13578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13578"><a href="https://visana.vn/dich-vu-don-tien-san-bay/">Đón tiễn sân bay</a></li>
+	<li id="menu-item-13579" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13579"><a href="https://visana.vn/ho-chieu-nhanh/">Làm hộ chiếu nhanh</a></li>
+	<li id="menu-item-13580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13580"><a href="https://visana.vn/shop/">Sim du lịch</a></li>
+	<li id="menu-item-13581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13581"><a href="https://visana.vn/bao-hiem-du-lich/">Bảo hiểm du lịch</a></li>
+	<li id="menu-item-14754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14754"><a href="https://visana.vn/dich-vu-lam-the-apec/">Thẻ APEC</a></li>
+	<li id="menu-item-14798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14798"><a href="https://visana.vn/dich-vu-lam-ly-lich-tu-phap/">Lý lịch tư pháp</a></li>
+	<li id="menu-item-14770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14770"><a href="https://visana.vn/dich-vu-gia-han-visa-my/">Gia hạn visa Mỹ</a></li>
+	<li id="menu-item-14717" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-14717"><a href="https://visana.vn/gia-han-visa-cho-nguoi-nuoc-ngoai-tai-viet-nam/">Gia hạn Visa Việt Nam</a></li>
+	<li id="menu-item-14742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14742"><a href="https://visana.vn/dich-vu-giay-phep-lao-dong/">Giấy phép lao động Việt Nam</a></li>
+	<li id="menu-item-14731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14731"><a href="https://visana.vn/dich-vu-the-tam-tru/">Thẻ tạm trú Việt Nam</a></li>
+</ul>
+</li>
+<li id="menu-item-13582" class="li_vt_3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13582"><a>Thông tin hữu ích</a>
+<ul class="sub-menu">
+	<li id="menu-item-13584" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13584"><a rel="nofollow" href="https://visana.vn/faq/cau-hoi-chung/">FAQs</a></li>
+	<li id="menu-item-13586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13586"><a href="https://visana.vn/dai-su-quan-nuoc-ngoai-tai-viet-nam/">ĐSQ nước ngoài tại Việt Nam</a></li>
+	<li id="menu-item-13588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13588"><a href="https://visana.vn/dai-su-quan-viet-nam-tai-nuoc-ngoai/">ĐSQ Việt Nam tại nước ngoài</a></li>
+	<li id="menu-item-13590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13590"><a href="https://visana.vn/quoc-gia-mien-visa-cho-nguoi-viet/">Các nước miễn Visa</a></li>
+	<li id="menu-item-13592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13592"><a href="https://visana.vn/cac-nuoc-nguoi-viet-phai-lam-visa/">Các nước phải làm Visa</a></li>
+	<li id="menu-item-14184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14184"><a href="https://visana.vn/du-lich-mua-coronavirus/">Du lịch mùa Corona</a></li>
+	<li id="menu-item-13593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13593"><a href="https://visana.vn/cau-tra-loi/">Kiểm tra tỷ lệ đậu</a></li>
+</ul>
+</li>
+<li id="menu-item-13595" class="li_vt_4 menu-item menu-item-type-custom menu-item-object-custom menu-item-13595"><a href="https://visana.vn/blog/">Cẩm nang</a></li>
+</ul></div>                        </div>
+                        <div class="col-lg-4 col-xs-6 col-md-2 d-flex justify-content-end">
+                            <div class="btn-dk">
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#register">Đăng ký tư vấn</button>
+                                <a href="https://visana.vn/cau-tra-loi/" type="button" class="btn btn-outline-primary" rel="nofollow">Test tỷ lệ đậu</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="menu-mobile">
+        <div class="container">
+            <div class="row">
+                <div class="col-6">
+                    <div class="logo-menu-mb">
+                        <a href="/">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 407.31 173.05" style="width: 102px;"><defs><style>.cls-1{fill:#008cc1;}.cls-2{fill:#414042;}.cls-3{fill:#fff;}</style></defs><title>visana-logo</title><path class="cls-1" d="M335.63,59v.84H253.14V59a11.69,11.69,0,0,1,11.68-11.7h59.12A11.69,11.69,0,0,1,335.63,59Z"/><path class="cls-1" d="M319.44,86.19V130.5a5.43,5.43,0,0,1-1.16,3.72,3.78,3.78,0,0,1-3,1.33,5.39,5.39,0,0,1-3.86-1.79l-34-34.2V135h-8V91.05a5.47,5.47,0,0,1,1.16-3.7A3.93,3.93,0,0,1,273.67,86a4.18,4.18,0,0,1,1.79.41,6,6,0,0,1,1.79,1.33l34.14,33.86V86.19Z"/><polygon class="cls-2" points="271.61 25.16 271.61 47.32 267.05 47.32 267.05 25.21 271.61 25.16"/><rect class="cls-2" x="317.04" y="25.21" width="4.54" height="22.1"/><path class="cls-1" d="M253.14,69.65V140.2a11.69,11.69,0,0,0,11.68,11.7h59.12a11.69,11.69,0,0,0,11.7-11.7V69.65Zm66.29,60.85a5.43,5.43,0,0,1-1.16,3.72,3.78,3.78,0,0,1-3,1.33,5.39,5.39,0,0,1-3.86-1.79l-34-34.2V135h-8V91.05a5.47,5.47,0,0,1,1.16-3.7A3.93,3.93,0,0,1,273.67,86a4.18,4.18,0,0,1,1.79.41,6,6,0,0,1,1.79,1.33l34.14,33.86V86.19h8Z"/><rect class="cls-2" x="253.14" y="59.85" width="82.5" height="9.8"/><path class="cls-1" d="M407.31,135.63H397L375,98.37l-21.89,37.26h-9.71l27.88-46.31a6.4,6.4,0,0,1,1.73-2,3.83,3.83,0,0,1,2.33-.73,3.94,3.94,0,0,1,2.4.73,6.4,6.4,0,0,1,1.73,2Z"/><path class="cls-1" d="M0,86.59H10.31l22,37.26L54.16,86.59h9.71L36,132.9a6.44,6.44,0,0,1-1.73,2,3.85,3.85,0,0,1-2.33.73,4,4,0,0,1-2.4-.73,6.42,6.42,0,0,1-1.73-2Z"/><path class="cls-1" d="M242.86,135.63H232.55l-22-37.26L188.7,135.63H179l27.88-46.31a6.42,6.42,0,0,1,1.73-2,3.83,3.83,0,0,1,2.33-.73,3.94,3.94,0,0,1,2.4.73,6.42,6.42,0,0,1,1.73,2Z"/><path class="cls-1" d="M82.84,135V86.59h8.45V135Z"/><path class="cls-1" d="M113.45,135v-8.45h36.26a7.3,7.3,0,0,0,5.22-1.73,6,6,0,0,0,1.83-4.59,5.83,5.83,0,0,0-1.83-4.69,7.82,7.82,0,0,0-5.22-1.56H127.49a17.43,17.43,0,0,1-6.15-1,13.3,13.3,0,0,1-4.66-2.86,12.56,12.56,0,0,1-2.93-4.36,14.49,14.49,0,0,1-1-5.52,14.9,14.9,0,0,1,1-5.42,11.56,11.56,0,0,1,2.86-4.29,13.57,13.57,0,0,1,4.69-2.83,18.4,18.4,0,0,1,6.39-1h34.73V95H127.62a6.2,6.2,0,0,0-4.52,1.56,5.82,5.82,0,0,0-1.6,4.36,5.64,5.64,0,0,0,1.63,4.32,6.2,6.2,0,0,0,4.42,1.53h22.16q7.38,0,11.21,3.46t3.83,10.51a16.63,16.63,0,0,1-.93,5.66,12.21,12.21,0,0,1-2.79,4.49,12.74,12.74,0,0,1-4.69,3,18.79,18.79,0,0,1-6.62,1.06Z"/><path class="cls-3" d="M311.39,86.19v35.39L277.25,87.73a6,6,0,0,0-1.79-1.33,4.18,4.18,0,0,0-1.79-.41,3.93,3.93,0,0,0-3.16,1.37,5.47,5.47,0,0,0-1.16,3.7V135h8V99.56l34,34.2a5.39,5.39,0,0,0,3.86,1.79,3.78,3.78,0,0,0,3-1.33,5.43,5.43,0,0,0,1.16-3.72V86.19Z"/><path class="cls-1" d="M322.75,25.21h-6.69s0-10.48-1.34-13.62a5.61,5.61,0,0,0-2.15-1.7c-8.12-4.21-28.92-3.89-37.11,0a3.54,3.54,0,0,0-1.28,1.46C273,14.6,272.9,25.17,272.9,25.17h-1.16l-4.56,0h-1s-1.68-13.72,0-17.85a4.63,4.63,0,0,1,1-1.41,13.9,13.9,0,0,1,3.56-2.52c.32-.14.65-.28,1-.41,11-4.21,34.46-3.89,45.44.13.26.09.51.18.75.28a12,12,0,0,1,3.79,3,6,6,0,0,1,1,1.64C324.19,12.12,322.75,25.21,322.75,25.21Z"/><circle class="cls-2" cx="275" cy="162.45" r="5.6"/><circle class="cls-2" cx="313.78" cy="162.45" r="5.6"/><path class="cls-2" d="M16.88,168,11.6,151.86h2.26l2.52,8c.7,2.18,1.3,4.15,1.73,6h0c.46-1.87,1.13-3.91,1.85-6l2.74-8H25L19.18,168Z"/><path class="cls-2" d="M31,153.15a1.31,1.31,0,0,1-2.62,0,1.29,1.29,0,0,1,1.32-1.32A1.25,1.25,0,0,1,31,153.15ZM28.66,168V156.42h2.11V168Z"/><path class="cls-2" d="M36.39,165.87a5.53,5.53,0,0,0,2.78.84c1.54,0,2.26-.77,2.26-1.73s-.6-1.56-2.16-2.14c-2.09-.74-3.07-1.9-3.07-3.29,0-1.87,1.51-3.41,4-3.41a5.81,5.81,0,0,1,2.86.72l-.53,1.54a4.51,4.51,0,0,0-2.38-.67c-1.25,0-1.94.72-1.94,1.58s.7,1.39,2.21,2c2,.77,3,1.78,3,3.51,0,2-1.58,3.48-4.34,3.48a6.62,6.62,0,0,1-3.26-.79Z"/><path class="cls-2" d="M55,168l-.17-1.46h-.07a4.33,4.33,0,0,1-3.55,1.73A3.31,3.31,0,0,1,47.67,165c0-2.81,2.5-4.35,7-4.32v-.24A2.4,2.4,0,0,0,52,157.71a5.78,5.78,0,0,0-3,.87l-.48-1.39a7.2,7.2,0,0,1,3.82-1c3.55,0,4.42,2.42,4.42,4.75v4.34a16.32,16.32,0,0,0,.19,2.79Zm-.31-5.93c-2.3,0-4.92.36-4.92,2.62a1.87,1.87,0,0,0,2,2,2.89,2.89,0,0,0,2.81-1.94,2.21,2.21,0,0,0,.12-.67Z"/><path class="cls-2" d="M78.32,167.6a7.76,7.76,0,0,1-3.34.67c-3.5,0-5.78-2.38-5.78-5.93a5.9,5.9,0,0,1,6.24-6.17,7.08,7.08,0,0,1,2.93.6l-.48,1.63a4.88,4.88,0,0,0-2.45-.55c-2.66,0-4.1,2-4.1,4.39,0,2.69,1.73,4.34,4,4.34A6,6,0,0,0,78,166Z"/><path class="cls-2" d="M83.19,151H85.3v7.25h0a3.91,3.91,0,0,1,1.51-1.49,4.33,4.33,0,0,1,2.16-.6c1.56,0,4.06,1,4.06,5V168H91v-6.67c0-1.87-.7-3.45-2.69-3.45A3,3,0,0,0,85.45,160a2.56,2.56,0,0,0-.14,1v7H83.19Z"/><path class="cls-2" d="M109.42,162.13c0,4.29-3,6.17-5.78,6.17-3.14,0-5.57-2.3-5.57-6,0-3.89,2.54-6.17,5.76-6.17S109.42,158.58,109.42,162.13Zm-9.22.12c0,2.54,1.46,4.46,3.53,4.46s3.53-1.9,3.53-4.51c0-2-1-4.46-3.48-4.46S100.21,160,100.21,162.25Z"/><path class="cls-2" d="M122,159.56c0-1.2,0-2.19-.1-3.14h1.87l.12,1.92h0a4.27,4.27,0,0,1,3.84-2.18c1.61,0,4.1,1,4.1,4.94V168h-2.11v-6.7c0-1.87-.7-3.43-2.69-3.43a3,3,0,0,0-2.83,2.16,3,3,0,0,0-.14,1v7H122Z"/><path class="cls-2" d="M147.7,156.42c0,.84-.1,1.78-.1,3.19v6.74c0,2.66-.53,4.3-1.66,5.3a6.15,6.15,0,0,1-4.22,1.39,7.49,7.49,0,0,1-3.86-1l.53-1.61a6.55,6.55,0,0,0,3.41.91c2.16,0,3.74-1.13,3.74-4.06V166h0a4.14,4.14,0,0,1-3.7,1.94c-2.88,0-4.94-2.45-4.94-5.66,0-3.94,2.57-6.17,5.23-6.17a3.86,3.86,0,0,1,3.62,2h0l.1-1.75ZM145.52,161a3.09,3.09,0,0,0-3.07-3.19c-2,0-3.46,1.71-3.46,4.39,0,2.28,1.15,4.18,3.43,4.18a3.09,3.09,0,0,0,2.93-2.16,3.71,3.71,0,0,0,.17-1.13Z"/><path class="cls-2" d="M165.1,153.83a3.61,3.61,0,0,1,.43,1.73,2,2,0,0,1-2,2l-.26,0v7.27c0,1.2,0,2.26.1,3.17h-1.87l-.12-1.9h0a4.37,4.37,0,0,1-3.84,2.16c-1.82,0-4-1-4-5.09v-6.79h2.11v6.43c0,2.21.67,3.7,2.59,3.7a3.05,3.05,0,0,0,2.78-1.92,3.09,3.09,0,0,0,.19-1.08v-7.13h1.66c.84,0,1.13-.34,1.13-.94a3,3,0,0,0-.41-1.39Z"/><path class="cls-2" d="M180.27,154.45a4,4,0,0,1,.41,1.75,1.93,1.93,0,0,1-2.23,2.09,6.07,6.07,0,0,1,1.2,3.84c0,4.29-3,6.17-5.78,6.17-3.14,0-5.57-2.3-5.57-6,0-3.89,2.54-6.17,5.76-6.17a6.07,6.07,0,0,1,2,.34,7.26,7.26,0,0,0,2,.62.86.86,0,0,0,1-1,3,3,0,0,0-.38-1.42Zm-9.84,7.8c0,2.54,1.46,4.46,3.53,4.46s3.53-1.9,3.53-4.51c0-2-1-4.46-3.48-4.46S170.43,160,170.43,162.25Zm2.78-10.85,2.11,3.43h-1.49l-2.93-3.43Z"/><path class="cls-2" d="M187.16,153.15a1.31,1.31,0,0,1-2.62,0,1.29,1.29,0,0,1,1.32-1.32A1.25,1.25,0,0,1,187.16,153.15ZM184.81,168V156.42h2.11V168Z"/><path class="cls-2" d="M203.07,168l-5.28-16.18H200l2.52,8c.7,2.18,1.3,4.15,1.73,6h0c.46-1.87,1.13-3.91,1.85-6l2.74-8h2.23L205.37,168Z"/><path class="cls-2" d="M217.21,153.15a1.31,1.31,0,0,1-2.62,0,1.29,1.29,0,0,1,1.32-1.32A1.25,1.25,0,0,1,217.21,153.15ZM214.85,168V156.42H217V168Z"/><path class="cls-2" d="M224,162.61a3.72,3.72,0,0,0,4,4,7.64,7.64,0,0,0,3.22-.6l.36,1.51a9.42,9.42,0,0,1-3.87.72c-3.58,0-5.71-2.35-5.71-5.86s2.06-6.26,5.45-6.26c3.79,0,4.8,3.34,4.8,5.47a8,8,0,0,1-.07,1Zm6.19-1.51c0-1.34-.55-3.43-2.93-3.43-2.14,0-3.07,2-3.24,3.43Zm-2.4-9.7,2.3,3.43h-1.63l-1.39-2.28h0l-1.39,2.28h-1.56l2.26-3.43Zm.48,19.78a1.21,1.21,0,0,1-1.22,1.25,1.24,1.24,0,0,1,0-2.47A1.2,1.2,0,0,1,228.32,171.18Z"/><path class="cls-2" d="M239.84,153.08v3.34h3V158h-3v6.27c0,1.44.41,2.26,1.58,2.26a4.68,4.68,0,0,0,1.22-.14l.1,1.58a5.17,5.17,0,0,1-1.87.29,2.93,2.93,0,0,1-2.28-.89,4.31,4.31,0,0,1-.82-3V158H236v-1.61h1.8v-2.79Z"/></svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-6 c-mobile">
+                    <div class="tg-bar">
+                        <span class="icon-menu-mobile"></span>
+                    </div>
+
+                    <div class="block-menu-mb">
+                        <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="li_vt_1 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13509"><a>Dịch vụ Visa</a>
+<ul class="sub-menu">
+	<li class="cl-menu mn_chau_a menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13510"><a>Visa châu Á</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13511"><a href="https://visana.vn/dich-vu/visa-an-do/">Visa Ấn Độ</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13512"><a href="https://visana.vn/dich-vu/visa-bangladesh/">Visa Bangladesh</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13513"><a href="https://visana.vn/dich-vu/visa-dai-loan/">Visa Đài Loan</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13514"><a href="https://visana.vn/dich-vu/visa-han-quoc/">Visa Hàn Quốc</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13515"><a href="https://visana.vn/dich-vu/visa-hongkong/">Visa Hong Kong</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13516"><a href="https://visana.vn/dich-vu/visa-israel/">Visa Israel</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13517"><a href="https://visana.vn/dich-vu/visa-nga/">Visa Nga</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13518"><a href="https://visana.vn/dich-vu/visa-nhat-ban/">Visa Nhật Bản</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13519"><a href="https://visana.vn/dich-vu/visa-pakistan/">Visa Pakistan</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13520"><a href="https://visana.vn/dich-vu/visa-trung-quoc/">Visa Trung Quốc</a></li>
+	</ul>
+</li>
+	<li class="cl-menu mn_chau_au menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13521"><a>Visa Châu Âu</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13522"><a href="https://visana.vn/dich-vu/visa-anh/">Visa Anh</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13523"><a href="https://visana.vn/dich-vu/visa-ao/">Visa Áo</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13524"><a href="https://visana.vn/dich-vu/visa-bi/">Visa Bỉ</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13525"><a href="https://visana.vn/dich-vu/visa-bulgaria/">Visa Bulgaria</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13526"><a href="https://visana.vn/dich-vu/visa-bo-dao-nha/">Visa Bồ Đào Nha</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13527"><a href="https://visana.vn/dich-vu/visa-dan-mach/">Visa Đan Mạch</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13528"><a href="https://visana.vn/dich-vu/visa-duc/">Visa Đức</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13529"><a href="https://visana.vn/dich-vu/visa-ha-lan/">Visa Hà Lan</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13530"><a href="https://visana.vn/dich-vu/visa-hy-lap/">Visa Hy Lạp</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13531"><a href="https://visana.vn/dich-vu/visa-hungary/">Visa Hungary</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13532"><a href="https://visana.vn/dich-vu/visa-iceland/">Visa Iceland</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13533"><a href="https://visana.vn/dich-vu/visa-liechtenstein/">Visa Liechtenstein</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13534"><a href="https://visana.vn/dich-vu/visa-lithuania/">Visa Lithuania</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13535"><a href="https://visana.vn/dich-vu/visa-na-uy/">Visa Na Uy</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13536"><a href="https://visana.vn/dich-vu/visa-phap/">Visa Pháp</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13537"><a href="https://visana.vn/dich-vu/visa-phan-lan/">Visa Phần Lan</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13538"><a href="https://visana.vn/dich-vu/visa-sec/">Visa Séc</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13539"><a href="https://visana.vn/dich-vu/visa-sip/">Visa Síp</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13540"><a href="https://visana.vn/dich-vu/visa-slovakia/">Visa Slovakia</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13541"><a href="https://visana.vn/dich-vu/visa-slovenia/">Visa Slovenia</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13542"><a href="https://visana.vn/dich-vu/visa-tay-ban-nha/">Visa Tây Ban Nha</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13543"><a href="https://visana.vn/dich-vu/visa-tho-nhi-ky/">Visa Thổ Nhĩ Kỳ</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13544"><a href="https://visana.vn/dich-vu/visa-thuy-dien/">Visa Thuỵ Điển</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13545"><a href="https://visana.vn/dich-vu/visa-thuy-si/">Visa Thuỵ Sĩ</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13546"><a href="https://visana.vn/dich-vu/visa-ukraina/">Visa Ukraina</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13547"><a href="https://visana.vn/dich-vu/visa-y/">Visa Ý</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="cl-menu mn_chau_my menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13548"><a>Visa Châu Mỹ</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13549"><a href="https://visana.vn/dich-vu/visa-brazil/">Visa Brazil</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13550"><a href="https://visana.vn/dich-vu/visa-canada/">Visa Canada</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13551"><a href="https://visana.vn/dich-vu/visa-cuba/">Visa Cuba</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13552"><a href="https://visana.vn/dich-vu/visa-mexico/">Visa Mexico</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13553"><a href="https://visana.vn/dich-vu/visa-my/">Visa Mỹ</a></li>
+		<li class="cl-menu mn_chau_uc menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13554"><a href="#">Visa Châu Úc</a>
+		<ul class="sub-menu">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13555"><a href="https://visana.vn/dich-vu/visa-new-caledonia/">Visa New Caledonia</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13556"><a href="https://visana.vn/dich-vu/visa-new-zealand/">Visa New Zealand</a></li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13557"><a href="https://visana.vn/dich-vu/visa-uc/">Visa Úc</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="cl-menu mn_chau_phi menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13558"><a>Visa Châu phi</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13559"><a href="https://visana.vn/dich-vu/visa-ai-cap/">Visa Ai Cập</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13560"><a href="https://visana.vn/dich-vu/visa-algeria/">Visa Algeria</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13561"><a href="https://visana.vn/dich-vu/visa-angola/">Visa Angola</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13562"><a href="https://visana.vn/dich-vu/visa-kenya/">Visa Kenya</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13563"><a href="https://visana.vn/kinh-nghiem-xin-visa-liberia/">Visa Liberia</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13564"><a href="https://visana.vn/dich-vu/visa-maroc/">Visa Maroc</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13565"><a href="https://visana.vn/dich-vu/visa-nam-phi/">Visa Nam Phi</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13566"><a href="https://visana.vn/dich-vu/visa-nigeria/">Visa Nigeria</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13567"><a href="https://visana.vn/dich-vu/visa-tanzania/">Visa Tanzania</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="li_vt_2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13577"><a>Dịch vụ khác</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13578"><a href="https://visana.vn/dich-vu-don-tien-san-bay/">Đón tiễn sân bay</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13579"><a href="https://visana.vn/ho-chieu-nhanh/">Làm hộ chiếu nhanh</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13580"><a href="https://visana.vn/shop/">Sim du lịch</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13581"><a href="https://visana.vn/bao-hiem-du-lich/">Bảo hiểm du lịch</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14754"><a href="https://visana.vn/dich-vu-lam-the-apec/">Thẻ APEC</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14798"><a href="https://visana.vn/dich-vu-lam-ly-lich-tu-phap/">Lý lịch tư pháp</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14770"><a href="https://visana.vn/dich-vu-gia-han-visa-my/">Gia hạn visa Mỹ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-14717"><a href="https://visana.vn/gia-han-visa-cho-nguoi-nuoc-ngoai-tai-viet-nam/">Gia hạn Visa Việt Nam</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14742"><a href="https://visana.vn/dich-vu-giay-phep-lao-dong/">Giấy phép lao động Việt Nam</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14731"><a href="https://visana.vn/dich-vu-the-tam-tru/">Thẻ tạm trú Việt Nam</a></li>
+</ul>
+</li>
+<li class="li_vt_3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13582"><a>Thông tin hữu ích</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13584"><a rel="nofollow" href="https://visana.vn/faq/cau-hoi-chung/">FAQs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13586"><a href="https://visana.vn/dai-su-quan-nuoc-ngoai-tai-viet-nam/">ĐSQ nước ngoài tại Việt Nam</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13588"><a href="https://visana.vn/dai-su-quan-viet-nam-tai-nuoc-ngoai/">ĐSQ Việt Nam tại nước ngoài</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13590"><a href="https://visana.vn/quoc-gia-mien-visa-cho-nguoi-viet/">Các nước miễn Visa</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13592"><a href="https://visana.vn/cac-nuoc-nguoi-viet-phai-lam-visa/">Các nước phải làm Visa</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14184"><a href="https://visana.vn/du-lich-mua-coronavirus/">Du lịch mùa Corona</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13593"><a href="https://visana.vn/cau-tra-loi/">Kiểm tra tỷ lệ đậu</a></li>
+</ul>
+</li>
+<li class="li_vt_4 menu-item menu-item-type-custom menu-item-object-custom menu-item-13595"><a href="https://visana.vn/blog/">Cẩm nang</a></li>
+</ul></div>                        <div class="mn-visana">
+                            <ul>
+                                <li><a href="https://visana.vn/gioi-thieu">Về Visana</a></li>
+                                <li><a href="https://visana.vn/cam-nhan-cua-khach-hang">Cảm nhận khách hàng</a></li>
+                            </ul>
+                            <p>Hotline : <span>1900 0284 </span> <span>090 2200 454</span></p>
+                        </div>
+                        <div class="btn-dk">
+                            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#register">Đăng ký tư vấn</button>
+                            <a href="https://visana.vn/cau-tra-loi" type="button" class="btn btn-outline-primary">Test tỷ lệ đậu</a>
+                        </div>
+                        <div class="close-menu"><span class="icon-close"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade popupbox modal-visana modal-begin modal-finish modal-form" id="register" data-backdrop="static" data-keyboard="false">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="md-ct-im">
+                <img src="https://visana.vn/wp-content/uploads/2020/01/im_md_dktv.jpg" class="img-fluid">
+            </div>
+            <div class="modal-content">
+                <div class="modal-header md-fn">
+                    <p class="modal-title title_modal active">Đăng ký tư vấn</p>
+                    <p class="modal-title title_modal hide">Đăng ký thành công!</p>
+                </div>
+                <div class="modal-body">
+                    <div class="block-dktv block-form active">
+                        <div role="form" class="wpcf7" id="wpcf7-f1188-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/dich-vu-don-tien-san-bay/data:image/svg_xml,svg_xmlns=http%3A%2Fwww.w3.org%2F2000%2Fsvg+viewBox%3D0+0+630+418%3E%3C%2Fsvg%3E#wpcf7-f1188-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1188" />
+<input type="hidden" name="_wpcf7_version" value="5.3.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1188-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="input-group"><span class="wpcf7-form-control-wrap fullname"><input type="text" name="fullname" value="" size="40" maxlength="30" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control feild_required" aria-required="true" aria-invalid="false" placeholder="Họ tên *" /></span></div>
+<div class="input-group"><span class="wpcf7-form-control-wrap phone"><input type="tel" name="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel form-control feild_required" aria-required="true" aria-invalid="false" placeholder="Số điện thoại *" /></span></div>
+<div class="input-group"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control feild_required" aria-required="true" aria-invalid="false" placeholder="Email *" /></span></div>
+<div class="email_msg"></div>
+<div class="input-group"><span class="wpcf7-form-control-wrap content"><textarea name="content" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea radius" aria-invalid="false" placeholder="Nội dung"></textarea></span></div>
+<p><input type="hidden" name="form-url" value="https://visana.vn/dich-vu-don-tien-san-bay/data:image/svg+xml,%3Csvg%20xmlns=http:/www.w3.org/2000/svg%20viewBox=0%200%20630%20418%3E%3C/svg%3E" /></p>
+<div id="captcha-register"></div>
+<div class="error-captcha"></div>
+<div class="input-group wrap-btn-register"><input type="submit" value="Đăng ký tư vấn" class="wpcf7-form-control wpcf7-submit btn btn-contact btn-block btn-lg btn-push-fs" /></div>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                    </div>
+                    <div class="block-finish hide">
+                        <div class="itememail">
+                            <img src="https://visana.vn/wp-content/uploads/2020/01/iconfont-email.png">
+                            <p>Cảm ơn bạn đã đăng kí tư vấn. Chúng tôi đã nhận được và đang xem xét xử lý. Trân trọng!</p>
+                        </div>
+                        <div class="input-group wrap-btn-register">
+                            <input type="button" value="Hoàn thành" class="btn btn-contact btn-block btn-lg close_modal" data-dismiss="modal">
+                            <span class="ajax-loader" style="display: block;"></span>
+                        </div>
+                    </div>
+                </div>
+                <button type="button" class="btn-modal-close rounded-circle close_modal" data-dismiss="modal"><span class="icon-close"></span></button>
+                <div class="loading-on-modal d-none">
+                    <img src="https://visana.vn/wp-content/uploads/2020/01/Spinner.gif" alt="#">
+                </div>
+                <div class="mask-modal d-none"></div>
+            </div>
+
+        </div>
+    </div>
+    <div class="gif_loading" style="display: none;">
+        <div class="loading-all">
+            <img src="https://visana.vn/wp-content/uploads/2020/01/Spinner.gif" alt="#">
+        </div>
+        <div class="mask"></div>
+    </div>
+<div class="container" style="margin-bottom:20px;">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+			<section class="error-404 not-found">
+				<header class="page-header text-center">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+				<div class="page-content text-center">
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+					
+					<form role="search" method="get" class="search-form" action="https://visana.vn/">
+						<label for="search-form-5fec3324b884d">
+							<span class="screen-reader-text">Search for:</span>
+						</label>
+						<input type="search" id="search-form-5fec3324b884d" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+						<button type="submit" class="search-submit btn btn-default">Search</button>
+					</form>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+		</main><!-- #main -->
+	</div><!-- #primary -->
+</div><!-- .wrap -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54M6RWT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-content/plugins/embed-any-document/js/pdfobject.min.js?ver=2.6.1' id='awsm-ead-pdf-object-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" id='awsm-ead-public-js-extra'>
+/* <![CDATA[ */
+var eadPublic = [];
+/* ]]> */
+</script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-content/plugins/embed-any-document/js/embed-public.min.js?ver=2.6.1' id='awsm-ead-public-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/visana.vn\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" id='tve-dash-frontend-js-extra'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/visana.vn\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":"","recaptcha":[]};
+/* ]]> */
+</script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript" src='https://visana.vn/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=2.3.5.2' id='tve-dash-frontend-js'></script>
+<script type="1b94ce271e547e8f734cad4b-text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="1b94ce271e547e8f734cad4b-text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"0ec214f30c","ajax_url":"https:\/\/visana.vn\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":[],"current_screen":{"screen_type":7,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"0ec214f30c","ajax_url":"https:\/\/visana.vn\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":[],"current_screen":{"screen_type":7,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]})} /*]]> */</script><script type="1b94ce271e547e8f734cad4b-text/javascript">window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://visana.vn/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js" type="1b94ce271e547e8f734cad4b-text/javascript"></script><footer id="footer" class="">
+    <div class="container">
+        <div class="row sub-footer">
+            <div class="col-lg-4 col-md-12 col-xs-4 full-width-mb">
+                <div class="__footer-list-menu">
+                    <p class="title-footer">Dịch vụ visa</p>
+                    <div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-13977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13977"><a href="https://visana.vn/dich-vu/visa-anh/">Visa Anh</a></li>
+<li id="menu-item-13973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13973"><a href="https://visana.vn/dich-vu/visa-canada/">Visa Canada</a></li>
+<li id="menu-item-13587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13587"><a href="https://visana.vn/dich-vu/visa-dai-loan/">Visa Đài Loan</a></li>
+<li id="menu-item-13583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13583"><a href="https://visana.vn/dich-vu/visa-han-quoc/">Visa Hàn Quốc</a></li>
+<li id="menu-item-13594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13594"><a href="https://visana.vn/dich-vu/visa-hongkong/">Visa đi HongKong</a></li>
+<li id="menu-item-13972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13972"><a href="https://visana.vn/dich-vu/visa-my/">Visa Mỹ</a></li>
+<li id="menu-item-13975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13975"><a href="https://visana.vn/dich-vu/visa-new-zealand/">Visa New Zealand</a></li>
+<li id="menu-item-13585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13585"><a href="https://visana.vn/dich-vu/visa-nhat-ban/">Visa Nhật Bản</a></li>
+<li id="menu-item-13976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13976"><a href="https://visana.vn/dich-vu/visa-phap/">Visa Pháp</a></li>
+<li id="menu-item-13589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13589"><a href="https://visana.vn/dich-vu/visa-trung-quoc/">Visa Trung Quốc</a></li>
+<li id="menu-item-13974" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13974"><a href="https://visana.vn/dich-vu/visa-uc/">Visa Úc</a></li>
+<li id="menu-item-13978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13978"><a href="https://visana.vn/dich-vu/visa-y/">Visa Ý</a></li>
+</ul></div>                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-xs-4 full-width-mb">
+                <p class="title-footer">Liên hệ</p>
+                <div class="contact-footer">
+                    <div class="_1bl y-fl">
+                        <i class="icon-phone-ft"></i><p class="icons-footer phone-footer"><a href="tel:19000284">1900 0284</a></p>
+                    </div>
+                    <div class="_1bl y-fl">
+                        <i class="icon-phone-ft"></i><p class="icons-footer phone-footer"><a href="tel:090 2200 454">090 2200 454</a></p>
+                    </div>
+                    <div class="_1bl y-fl">
+                        <i class="icon-mail-ft"></i><p class="icons-footer mail-footer"><a href="/cdn-cgi/l/email-protection#0764746c6f47716e74666966297169"><span class="__cf_email__" data-cfemail="b8dbcbd3d0f8ced1cbd9d6d996ced6">[email&#160;protected]</span></a></p>
+                    </div>
+                    <div class="_1bl no-fl">
+                        <i class="icon-location-ft"></i><p class="location-footer">Tầng 23, Tòa nhà Vinaconex 9, Phạm Hùng, Mễ Trì, Nam Từ Liêm, Hà Nội.</p>
+                    </div>
+                    <div class="_1bl no-fl">
+                        <i class="icon-location-ft"></i><p class="location-footer">Phòng 702, Tòa nhà Landmark 2, Vinhomes Central Park, Bình Thạnh, Hồ Chí Minh</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-xs-4 full-width-mb">
+                <div class="logoFt">
+                    <div><img src="https://visana.vn/wp-content/themes/visana_v3.0/assets/images_svg/visana-logo-white.svg" alt="logo visana footer"></div>
+                    <p>VISANA là một dịch vụ của Vietnam Discovery Travel với trên 10 năm kinh nghiệm cung cấp dịch vụ visa và lữ hành quốc tế. Cùng đội ngũ chuyên viên tư vấn, kỹ năng xử lý các trường hợp khẩn và khó, VISANA tự tin mang đến sự thảnh thơi và thuận tiện trong các thủ tục xin visa đi tất cả quốc gia theo nhu cầu cụ thể của quý khách.</p>
+                </div>
+                <div class="img-footer">
+                    <a href="https://vietnamdiscovery.com/" rel="nofollow"><img src="https://visana.vn/wp-content/themes/visana_v3.0/assets/images_svg/logo-VNdiscovery-white.svg" alt="logo vietnamdiscovery" class="lg-dcvr"></a>
+                    <a href="https://www.facebook.com/visana.vn/"><img src="https://visana.vn/wp-content/uploads/2019/08/fb-visana.png" alt="logo vietnamdiscovery"></a>
+                    <!-- <a href="https://www.facebook.com/visana.vn/"><img src="https://visana.vn/wp-content/uploads/2020/01/im_icon_tw.png"></a> -->
+                    <!-- <img src="https://visana.vn/wp-content/uploads/2019/08/twitter-visana.png"> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ftCopy"><div class="container">Copyright 2020 VISANA | All Rights Reserved; <a class="terms-of-service" href="#">Điều khoản và dịch vụ</a> </div></div>
+</footer>
+<input name="url-post" type="hidden" value="https://visana.vn/wp-admin/admin-ajax.php">
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="1b94ce271e547e8f734cad4b-text/javascript">
+var response_captcha;
+
+var verifyCallback = function(response) {
+    response_captcha = response;
+};
+
+var widget_register;
+var widget_download;
+var widget_embassy;
+var widget_sim;
+var widget_form;
+var widget_faq;
+var widget_popup;
+var widget_visa;
+
+var onloadCallback = function() {
+    captcha_register = document.getElementById('captcha-register');
+    captcha_download = document.getElementById('captcha-download');
+    captcha_embassy = document.getElementById('recaptcha-embassy');
+    captcha_sim = document.getElementById('recaptcha-sim');
+    captcha_form = document.getElementById('recaptcha_form');
+    captcha_faq = document.getElementById('recaptcha_dsq');
+    captcha_popup = document.getElementById('captcha-popup');
+    captcha_visa = document.getElementById('captcha_visa');
+    js_captcha = document.getElementById('captcha_demo');
+    captcha_shortcode_register = document.getElementById('js-captcha-shortcode_register');
+    if (typeof(captcha_register) != 'undefined' && captcha_register != null) {
+        widget_register = grecaptcha.render(captcha_register, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_download) != 'undefined' && captcha_download != null) {
+        widget_download = grecaptcha.render(captcha_download, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_embassy) != 'undefined' && captcha_embassy != null) {
+        widget_embassy = grecaptcha.render(captcha_embassy, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_sim) != 'undefined' && captcha_sim != null) {
+        widget_sim = grecaptcha.render(captcha_sim, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_form) != 'undefined' && captcha_form != null) {
+        widget_form = grecaptcha.render(captcha_form, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_faq) != 'undefined' && captcha_faq != null) {
+        widget_faq = grecaptcha.render(captcha_faq, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_popup) != 'undefined' && captcha_popup != null) {
+        widget_popup = grecaptcha.render(captcha_popup, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_visa) != 'undefined' && captcha_visa != null) {
+        widget_visa = grecaptcha.render(captcha_visa, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(captcha_shortcode_register) != 'undefined' && captcha_shortcode_register != null) {
+        widget_visa = grecaptcha.render(captcha_shortcode_register, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+    if (typeof(js_captcha) != 'undefined' && js_captcha != null) {
+        widget_visa = grecaptcha.render(js_captcha, {
+            'sitekey': '6LePPL0UAAAAAI9OxpZeOyqd4Zz2Qu6XQP0BzxzQ',
+            'callback': verifyCallback,
+        });
+    }
+}
+
+// Handle Recapcha
+jQuery(document).ready(function($){
+    var switch_captcha = false;
+    $('form, .form-control').click(function(){
+        if (!switch_captcha) {
+            var scriptElement1 = document.createElement( "script" );
+            scriptElement1.onload = function() {console.log( "Successfully" )};
+            scriptElement1.src = "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit";
+            document.body.appendChild( scriptElement1 );
+
+            var scriptElement2 = document.createElement( "script" );
+            scriptElement2.onload = function() {console.log( "Successfully" )};
+            scriptElement2.src = "https://www.google.com/recaptcha/api.js";
+            document.body.appendChild( scriptElement2 );
+            switch_captcha = true;
+        }
+    });
+});
+</script>
+
+<!-- Load Facebook SDK for JavaScript -->
+<script type="1b94ce271e547e8f734cad4b-text/javascript">
+    jQuery(document).ready(function($){
+                    (function(){
+                window.fbAsyncInit = function() {
+                    FB.init({
+                        xfbml : true,
+                        version : 'v4.0'
+                    });
+                };
+
+                (function(d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+
+                (function() {
+                    // Modify the variable values below
+                    var page_id = '774984876001834';
+                    var ref = '';
+                    var theme_color = '';
+                    var logged_in_greeting = 'Xin chào, VISANA đang sẵn sàng tư vấn cho quý khách. Hãy đặt câu hỏi!';
+                    var logged_out_greeting = 'Xin chào, VISANA đang sẵn sàng tư vấn cho quý khách. Hãy đặt câu hỏi!';
+
+                    // Don't touch the code below
+                    var el = document.createElement('div');
+                    el.className = 'fb-customerchat';
+                    el.setAttribute('page_id', page_id);
+                    if (ref.length) { el.setAttribute('ref', ref); }
+                    el.setAttribute('theme_color', theme_color);
+                    el.setAttribute('logged_in_greeting', logged_in_greeting);
+                    el.setAttribute('logged_out_greeting', logged_out_greeting);
+                    document.body.appendChild(el);
+                })();
+            })();
+            });
+</script>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="1b94ce271e547e8f734cad4b-|49" defer=""></script></body>
+</html>
